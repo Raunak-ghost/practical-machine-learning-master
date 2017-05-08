@@ -29,8 +29,6 @@ less than 5. It will make it easier for the graders to submit a repo with a gh-p
 
 ## HTML report page (gh-pages) ##
 
-##Please open [this GitHub link](https://github.com/Raunak-ghost/practical-machine-learning-master/gh-pages/index.html).  
-
 The HTML file is in the `gh-pages` branch.    
 The R markdown file (Rmd) is in the `master` branch.     
 
